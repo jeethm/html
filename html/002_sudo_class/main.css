@@ -1,0 +1,17 @@
+[type=submit]:focus{
+    font-size: 100%;
+    background-color: red;
+    width: 20%;
+    height: 20%;
+    position: center;
+    margin-left: 10px;
+}
+input:focus{
+    font-size: 100%;
+    background-color: blanchedalmond;
+    width: 20%;
+    height: 20%;
+    position: center;
+    margin-left: 10px;
+}
+

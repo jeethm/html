@@ -9,12 +9,11 @@ img{
     display: inline-block;
 
 }
-img:hover{
-    width: 60%;
-    height: 40%;
-    background-color: blanchedalmond;
+
+img:active{
+    width: 800px;
+    height: 600px;
     font-size: 300%;
     position: center;
     image-resolution: from-image;
-
 }

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73427dd6-f5d9-4889-802a-b7615607fa20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/001_all_elements/link_attr/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/001_all_elements/link_attr/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/001_all_elements/link_attr/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/002_sudo_class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/002_sudo_class/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/001_all_elements/link_attr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/001_all_elements/link_attr/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/001_all_elements/link_attr/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/001_all_elements/link_attr/main.css" afterDir="false" />
@@ -20,28 +25,28 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/index.html">
+            <entry file="file://$PROJECT_DIR$/html/002_sudo_class/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="344">
-                  <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+                <state relative-caret-position="165">
+                  <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/main.css">
+            <entry file="file://$PROJECT_DIR$/html/002_sudo_class/main.css">
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/main.css">
+            <entry file="file://$PROJECT_DIR$/html/002_sudo_class/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="33">
-                  <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+                <state relative-caret-position="561">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
                 </state>
               </provider>
             </entry>
@@ -72,14 +77,19 @@
         <option value="$PROJECT_DIR$/html/001_all_elements/001/index.html" />
         <option value="$PROJECT_DIR$/html/001_all_elements/002/Lists/index.html" />
         <option value="$PROJECT_DIR$/html/001_all_elements/003_using_emmet/index.html" />
-        <option value="$PROJECT_DIR$/html/001_all_elements/link_attr/index.html" />
         <option value="$PROJECT_DIR$/html/001_all_elements/link_attr/main.css" />
+        <option value="$PROJECT_DIR$/html/001_all_elements/link_attr/index.html" />
+        <option value="$PROJECT_DIR$/html/002_sudo_class/index.html" />
+        <option value="$PROJECT_DIR$/html/002_sudo_class/main.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1089" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -103,14 +113,7 @@
               <item name="tempjeet" type="b2602c69:ProjectViewProjectNode" />
               <item name="tempjeet" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="001_all_elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tempjeet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tempjeet" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="001_all_elements" type="462c0819:PsiDirectoryNode" />
-              <item name="link_attr" type="462c0819:PsiDirectoryNode" />
+              <item name="002_sudo_class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,8 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08377239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,13 +229,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="674">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/001_all_elements/link_attr/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/002_sudo_class/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/002_sudo_class/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
