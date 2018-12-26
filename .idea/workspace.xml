@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73427dd6-f5d9-4889-802a-b7615607fa20" name="Default Changelist" comment="this is with webstorm">
-      <change afterPath="$PROJECT_DIR$/html/002_sudo_class/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/002_sudo_class/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/002_sudo_class/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/003/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/003/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/003/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/003/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/003/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/004/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/004/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/005/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/005/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/001/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/001/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/002_sudo_class/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/002_sudo_class/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/002_sudo_class/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/002_sudo_class/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="73427dd6-f5d9-4889-802a-b7615607fa20" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/002_sudo_class/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="420">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -96,7 +78,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="y" value="1" />
     <option name="width" value="1036" />
@@ -201,6 +183,14 @@
       <option name="presentableId" value="Default" />
       <updated>1544896000307</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is with webstorm">
+      <created>1545866830158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545866830158</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -382,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/002_sudo_class/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
