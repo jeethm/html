@@ -1,0 +1,31 @@
+div {
+    width: 19px;
+    height: 12px;
+    border: 2px solid black;
+    border-radius: 35px;
+    display: inline-block;
+}
+
+div:hover {
+    border: 2px solid blue;
+    width: 25px;
+    height: 15px;
+}
+
+.drb1 {
+    background-color: red;
+}
+
+.drb2 {
+    background-color: blue;
+}
+
+.drb3 {
+    background-color: green;
+}
+
+.drb4 {
+    background-color: yellow;
+}
+
+

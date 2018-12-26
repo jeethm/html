@@ -1,12 +1,19 @@
-[type=submit]:focus{
-    font-size: 100%;
-    background-color: red;
-    width: 20%;
-    height: 20%;
-    position: center;
-    margin-left: 10px;
+
+[type=submit] {
+    /*next 2 line are help me to get sign in button to be in center first it must be block lvl element
+    second we use margin 0 auto to put it in center of the whole line*/
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    background-color: cornflowerblue;
 }
-input:focus{
+
+[type=submit]:focus {
+    background-color: deepskyblue;
+}
+
+[type=text]:focus {
     font-size: 100%;
     background-color: blanchedalmond;
     width: 20%;
@@ -15,3 +22,56 @@ input:focus{
     margin-left: 10px;
 }
 
+
+form {
+    margin-top: 100px;
+    border-radius: 10px;
+    border: 5px groove cornflowerblue;
+    background-color: aliceblue;
+}
+
+form:first-line {
+    font-size: 150%;
+    font-variant: all-petite-caps;
+    font-weight: bolder;
+    color: red;
+}
+
+ul li:nth-child(even) {
+    background-color: cornflowerblue;
+}
+
+li:nth-last-child(10) {
+    background-color: deeppink;
+
+}
+
+.first {
+    display: block;
+    box-sizing: content-box;
+    border: solid 10px blue;
+    width: 100px;
+    height: 50px;
+
+
+}
+
+img {
+    display: block;
+    width: 90%;
+    height: 50%;
+    margin: 0 auto;
+    border: solid 2px black;
+
+
+}
+
+strong {
+    display: block;
+    font-weight: bold;
+    font-variant: all-petite-caps;
+    font-size: 4rem;
+    text-align: center;
+    text-decoration: blue;
+    text-shadow: 5px 5px 5px deeppink;
+}

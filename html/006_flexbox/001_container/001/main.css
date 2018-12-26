@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+li {
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 50px;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+h1 {
+    padding-top: 0;
+
+    width: 300px;
+    height: 100px;
+    background-color: #5798ff;
+    border: 2px solid black;
+}
+
+header {
+    /*this next 2 line of code are set by defult */
+    /*in css so if u want to change it*/
+    /*u must write it and change its value*/
+    /*-----------------*/
+    /*flex-direction: row;*/
+    /*flex-wrap: nowrap;*/
+    box-sizing: border-box;
+    max-width: 90%;
+    background-color: dodgerblue;
+    border: 2px solid blue;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    font-size: 300%;
+    font-variant: all-petite-caps;
+    font-weight: bolder;
+    color: green;
+}
