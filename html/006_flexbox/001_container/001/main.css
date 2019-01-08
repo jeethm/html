@@ -17,7 +17,7 @@ li {
     text-align: center;
     line-height: 50px;
     width: 100px;
-    height: 50px;
+    /*height: 50px;*/
     background-color: yellow;
     border: 2px solid blue;
 }
@@ -29,6 +29,8 @@ h1 {
     height: 100px;
     background-color: #5798ff;
     border: 2px solid black;
+    text-align: center ;
+
 }
 
 header {
@@ -36,15 +38,32 @@ header {
     /*in css so if u want to change it*/
     /*u must write it and change its value*/
     /*-----------------*/
-    /*flex-direction: row;*/
+    flex-direction: row;
     /*flex-wrap: nowrap;*/
     box-sizing: border-box;
     max-width: 90%;
+    height: 700px;
     background-color: dodgerblue;
     border: 2px solid blue;
     margin: 0 auto;
     display: flex;
-    justify-content: space-around;
+    flex-flow: row wrap;
+    /*flex-direction: column;*/
+    /*justify-content work verticaly or horizental*/
+    /*depend on display-dirction
+     if flex-dirctinon is row than it move it horizentaly and if its column it set it verticaly
+     */
+    /*justify-content: center;*/
+    /*but align-item works opposit of the flex-dirctinon for example if flex-dirctinon is row align-item set item verticaly and if its column it sets it horizentaly*/
+   /*align-items: flex-start;*/
+
+
+}
+#devme{
+    align-self:baseline;
+}
+#menu{
+    align-items: flex-start;
 }
 
 p {
