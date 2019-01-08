@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73427dd6-f5d9-4889-802a-b7615607fa20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/002/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/002/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/Position/001/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/006_flexbox/001_container/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/001/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/006_flexbox/001_container/001/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/006_flexbox/001_container/001/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Position/001/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/Position/001/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/Position/001/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="189">
-                  <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+                <state relative-caret-position="658">
+                  <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -45,8 +35,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/Position/001/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+                <state relative-caret-position="691">
+                  <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
                 </state>
               </provider>
             </entry>
@@ -104,7 +94,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="y" value="1" />
     <option name="width" value="1036" />
@@ -227,7 +217,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" x="846" y="210" width="227" height="619" id="Project" order="2" sideWeight="0.49947312" visible="true" weight="0.17281349" />
+      <window_info content_ui="combo" x="846" y="210" width="227" height="619" id="Project" order="2" sideWeight="0.49947312" visible="true" weight="0.17281349" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.32827735" />
@@ -412,15 +402,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/Position/001/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="658">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/Position/001/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        <state relative-caret-position="691">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
         </state>
       </provider>
     </entry>
