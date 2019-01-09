@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73427dd6-f5d9-4889-802a-b7615607fa20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/001/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/002/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/003/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/flex_depth/003/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/Position/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Position/001/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/Position/001/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/Position/001/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Position/001/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/flex_depth/001/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,14 +33,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.44842497">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/Position/001/index.html">
+            <entry file="file://$PROJECT_DIR$/html/flex_depth/003/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="658">
-                  <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+                <state relative-caret-position="396">
+                  <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -33,10 +50,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/Position/001/main.css">
+            <entry file="file://$PROJECT_DIR$/html/flex_depth/003/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="691">
-                  <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+                <state relative-caret-position="690">
+                  <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -85,6 +102,11 @@
         <option value="$PROJECT_DIR$/html/006_flexbox/001_container/002/main.css" />
         <option value="$PROJECT_DIR$/html/Position/001/index.html" />
         <option value="$PROJECT_DIR$/html/Position/001/main.css" />
+        <option value="$PROJECT_DIR$/html/Position/001/mobile.css" />
+        <option value="$PROJECT_DIR$/html/Position/002/index.html" />
+        <option value="$PROJECT_DIR$/html/Position/002/main.css" />
+        <option value="$PROJECT_DIR$/html/flex_depth/003/index.html" />
+        <option value="$PROJECT_DIR$/html/flex_depth/003/main.css" />
       </list>
     </option>
   </component>
@@ -94,7 +116,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="1" />
     <option name="width" value="1036" />
@@ -108,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,19 +146,20 @@
               <item name="tempjeet" type="b2602c69:ProjectViewProjectNode" />
               <item name="tempjeet" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="Position" type="462c0819:PsiDirectoryNode" />
+              <item name="flex_depth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tempjeet" type="b2602c69:ProjectViewProjectNode" />
               <item name="tempjeet" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="Position" type="462c0819:PsiDirectoryNode" />
-              <item name="001" type="462c0819:PsiDirectoryNode" />
+              <item name="flex_depth" type="462c0819:PsiDirectoryNode" />
+              <item name="003" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,11 +174,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jeet\tempjeet\html\Position\002" />
       <recent name="C:\Users\jeet\tempjeet\html\Position\001" />
       <recent name="C:\Users\jeet\tempjeet\html\003" />
       <recent name="C:\Users\jeet\tempjeet\html\002_sudo_class" />
       <recent name="C:\Users\jeet\tempjeet\html\001_all_elements\link_attr" />
-      <recent name="C:\Users\jeet\tempjeet\html\001_all_elements\002\Lists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jeet\tempjeet\html\006_flexbox\001_container\001" />
@@ -217,7 +239,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" x="846" y="210" width="227" height="619" id="Project" order="2" sideWeight="0.49947312" visible="true" weight="0.17281349" />
+      <window_info active="true" content_ui="combo" x="846" y="210" width="227" height="619" id="Project" order="2" sideWeight="0.49947312" visible="true" weight="0.21338251" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.32827735" />
@@ -227,7 +249,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49947312" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" weight="0.23618636" />
-      <window_info anchor="bottom" x="0" y="393" width="1920" height="253" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.12567714" />
+      <window_info anchor="bottom" x="0" y="393" width="1920" height="253" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.12567714" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -400,17 +422,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Position/001/index.html">
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/001/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        <state relative-caret-position="495">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Position/001/main.css">
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/001/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        <state relative-caret-position="1518">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/001/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2211">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/002/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/002/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/003/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/flex_depth/003/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
         </state>
       </provider>
     </entry>

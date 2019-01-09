@@ -1,0 +1,87 @@
+html, body, div {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    background: linear-gradient(to left, #9ec0f7, snow);
+}
+
+.c1, .c2, .c3, .c4, .c5, .c6,.c7 {
+    min-height: 200px;
+    text-align: center;
+
+    font-size: 50px;
+    color: snow;
+}
+
+.c1, .c2, .c3, .c4, .c5, .c6:first-letter {
+    font-size: 50px;
+    color: white;
+
+}
+
+.c1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background: linear-gradient(to right, chocolate, yellow);
+}
+.c2 {
+    background-color: #9ec0f7;
+}
+.c3 {
+    background: linear-gradient(to right, #00245e, white);
+}
+.c4 {
+    background-color: deeppink;
+}
+.c5 {
+    background-color: deepskyblue;
+}
+
+.c6 {
+    background-color: springgreen;
+}
+.c1, .c2 {
+    width: 100%;
+}
+.c3 {
+    width: 60%;
+}
+.c4 {
+    width: 40%;
+}
+.c5 {
+    width: 40%;
+}
+.c6 {
+    width: 40%;
+}
+.c7{
+
+    width: 100%;
+    background-color: #9ec0f7;
+    border: 2px solid blue;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items:center;
+}
+a {
+    text-decoration: none;
+    margin-left: 100px;
+    padding-right: 0;
+}
+div:hover {
+
+   color: blue;
+
+
+}
+a:hover{
+    color: deeppink;
+}

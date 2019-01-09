@@ -1,18 +1,13 @@
-*{
-   margin: 0 0;
 
-}
-html{
-    display: flex;
-    justify-content: space-evenly;
-
-
+html, header, body {
+    box-sizing: border-box;
 }
 
-header{
+
+header {
     /*border: 5px solid black;*/
 
-    background: linear-gradient(to left ,#00245e,#9ec0f7);
+    background: linear-gradient(to left, #00245e, #9ec0f7);
     /*background: transparent;*/
     border-radius: 25px;
     width: 100%;
@@ -20,85 +15,93 @@ header{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-end;
     margin-bottom: 5px;
     /*position: fixed;*/
 
 
-
-
 }
-.f1{
+
+.f1 {
 
     font-size: 3rem;
     color: white;
-    background:linear-gradient(to left,#00245e,#9ec0f7 ) ;
-    height: 100px;
+    background: linear-gradient(to left, #00245e, #9ec0f7);
+    height: auto;
     border: 2px solid white;
     border-radius: 25px;
     margin: 0;
 
 
-
-
 }
-.main{
+
+.main {
     display: inline-flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
     margin-left: 2px;
     margin-right: 2px;
     font-size: 3rem;
     color: white;
     width: 80%;
-    background-color:silver;
+    background-color: silver;
     /*margin: 0 auto;*/
     border: 2px solid white;
     border-radius: 25px;
 
+
 }
-div{
+
+div {
 
     justify-content: center;
     border: 2px solid white;
     border-radius: 25px;
     text-align: center;
 }
-body{
 
-    display: inline-flex;
+body {
+
+    display: flex;
     flex-flow: row wrap;
+    justify-content: space-evenly;
     width: 100%;
     order: 1;
-
+    flex: auto;
 
 
     /*border: 2px solid dodgerblue;*/
     background-color: snow;
 
 }
-.side{
+
+.side {
     display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
     border-radius: 25px;
-    width: 9%;
+    width: 8%;
     border: 2px solid black;
     background-color: dodgerblue;
 }
-.rside{
+
+.rside {
     display: inline-flex;
     flex-flow: row wrap;
-    justify-content: revert;
+    justify-content: space-evenly;
+    align-items: center;
     order: 2;
-    width: 10%;
+    width: 8%;
     border-radius: 25px;
     border: 2px solid black;
     background-color: red;
 }
 
-footer{
+footer {
 
     height: 200px;
     width: 100%;
-    padding-bottom:0;
+    padding-bottom: 0;
     background-color: red;
     border: 2px solid red;
     display: flex;
@@ -109,9 +112,21 @@ footer{
 
 
 }
-.foot{
+
+.foot {
     font-size: 40px;
 
 }
+
+img {
+    width: auto;
+    height: available;
+}
+
+/*hr{*/
+/**/
+/*border: 10px solid black;*/
+/*}*/
+
 
 
