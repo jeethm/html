@@ -1,0 +1,74 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+
+    background-color: darkgray;
+    background-image: url("luca.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-origin: border-box;
+    background-attachment: fixed;
+
+
+
+}
+div{
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+}
+h1{
+
+    color: white;
+    text-shadow: 5px 5px black;
+    border-bottom:2px solid  #5798ff;
+    border-left: 5px solid #5798ff;
+    border-radius: 25px 25px ;
+}
+h2{
+    color: rgba(94, 7, 181, 0.75);
+    font-weight: bolder;
+    border-bottom:2px solid  #5798ff;
+    border-left: 5px solid #5798ff;
+    border-radius: 25px 25px ;
+}
+h3{
+   color: blue;
+    font-weight: 900;
+    font-variant-caps: titling-caps;
+    text-shadow: 5px 5px white;
+    border-bottom:2px solid  #5798ff;
+    border-left: 2px solid #5798ff;
+    border-radius: 25px 25px ;
+}
+button{
+
+    font-size: 4rem;
+    font-weight: 700;
+    text-decoration-line: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700;
+
+}
+button:link{
+    color: black;
+}
+
+button:visited{
+    color: greenyellow;
+}
+button:hover{
+    color: yellow;
+}
+button:active{
+    color: red;
+}
+

@@ -1,0 +1,32 @@
+.head{
+    color: red;
+}
+.left{
+    color:yellow;
+}
+.right{
+    color: orchid;
+}
+.main{
+    color: white;
+}
+.foot{
+    color: chocolate;
+}
+header:hover{
+    background: linear-gradient(to top,blue,white);
+    color: white;
+}
+aside:hover{
+    background: linear-gradient(to left,blue,white);
+    color: white;
+}
+main:hover{
+    background: linear-gradient(to left,blue,white);
+    color: white;
+}
+footer:hover{
+    background: linear-gradient(to bottom,blue,white);
+    color: white;
+}
+
